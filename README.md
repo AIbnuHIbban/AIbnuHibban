@@ -4,7 +4,5 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-
-
-
+- [Datatables Versi HTML + CSS + JS menggunakan Grid.js](https://dev.to/aibnuhibban/datatables-versi-html-css-js-menggunakan-grid-js-571c)
 <!-- BLOG-POST-LIST:END -->
