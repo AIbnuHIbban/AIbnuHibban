@@ -5,5 +5,6 @@
 
  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abdullah Ibnu Hibban's DEV Profile" height="20" width="20"> **Latest Dev.to Article**
 <!-- BLOG-POST-LIST:START -->
+- [Konfigurasi Email di Lumen 7  (2020)](https://dev.to/aibnuhibban/konfigurasi-email-di-lumen-7-2020-g1e)
 - [Datatables Versi HTML + CSS + JS menggunakan Grid.js](https://dev.to/aibnuhibban/datatables-versi-html-css-js-menggunakan-grid-js-571c)
 <!-- BLOG-POST-LIST:END -->
