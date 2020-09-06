@@ -2,6 +2,10 @@
 
 <a href="https://iconscout.com/icons/quran" target="_blank">Quran Icon</a> by <a href="https://iconscout.com/contributors/exeyecon" target="_blank">Nasir Ali</a>
 
+**🏆 Trophy**
+
+![trophy](https://github-profile-trophy.vercel.app/?username=aibnuhibban)
+
 
  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abdullah Ibnu Hibban's DEV Profile" height="20" width="20"> **Latest Dev.to Article**
 <!-- BLOG-POST-LIST:START -->
