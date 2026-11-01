@@ -15,3 +15,5 @@ jobs:
         with:
           max_post_count: "5"
           feed_list: "https://dev.to/feed/aibnuhibban"
+          committer_username: "Abdullah Ibnu Hibban"
+          committer_email: "abd.ibnuhibban@gmail.com"
