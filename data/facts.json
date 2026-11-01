@@ -1,0 +1,150 @@
+{
+  "asOf": "2026-11-01",
+  "contributions": {
+    "byYear": {
+      "2018": 50,
+      "2019": 218,
+      "2020": 4335,
+      "2021": 4198,
+      "2022": 839,
+      "2023": 244,
+      "2024": 332,
+      "2025": 302,
+      "2026": 490
+    },
+    "last12": {
+      "total": 523,
+      "private": 505
+    }
+  },
+  "repos": {
+    "public": 132,
+    "owned": 308
+  },
+  "strata": {
+    "2017": {
+      "Web": 7,
+      "JavaScript": 4,
+      "Dart": 1,
+      "Other": 26
+    },
+    "2018": {
+      "Web": 5,
+      "Dart": 21
+    },
+    "2019": {
+      "PHP": 15,
+      "Web": 26,
+      "JavaScript": 5,
+      "Dart": 3,
+      "Other": 36
+    },
+    "2020": {
+      "PHP": 33,
+      "Web": 52,
+      "JavaScript": 20,
+      "Dart": 6,
+      "Go": 2,
+      "TypeScript": 1,
+      "Other": 3
+    },
+    "2021": {
+      "PHP": 22,
+      "Web": 13,
+      "JavaScript": 28,
+      "Dart": 6,
+      "Go": 1,
+      "Other": 5
+    },
+    "2022": {
+      "PHP": 5,
+      "Web": 8,
+      "JavaScript": 11,
+      "Dart": 2,
+      "Other": 1
+    },
+    "2023": {
+      "PHP": 5,
+      "Web": 2,
+      "JavaScript": 15,
+      "Dart": 1,
+      "Go": 2,
+      "TypeScript": 1,
+      "Other": 2
+    },
+    "2024": {
+      "PHP": 4,
+      "Web": 12,
+      "JavaScript": 19,
+      "Dart": 2,
+      "Go": 15,
+      "TypeScript": 4,
+      "Other": 2
+    },
+    "2025": {
+      "PHP": 5,
+      "Web": 13,
+      "JavaScript": 11,
+      "Dart": 2,
+      "Go": 4,
+      "TypeScript": 9,
+      "Rust": 5,
+      "Other": 8
+    },
+    "2026": {
+      "PHP": 2,
+      "Web": 1,
+      "JavaScript": 7,
+      "Dart": 5,
+      "Go": 1,
+      "TypeScript": 15,
+      "Rust": 15,
+      "Other": 1
+    }
+  },
+  "agents": {
+    "prompts": 6679,
+    "activeDays": 266,
+    "spanDays": 352,
+    "since": "November 2025",
+    "codexSessions": 97,
+    "hoursWIB": [
+      280,
+      271,
+      174,
+      150,
+      88,
+      93,
+      73,
+      125,
+      103,
+      227,
+      332,
+      420,
+      314,
+      396,
+      450,
+      435,
+      494,
+      509,
+      299,
+      300,
+      296,
+      293,
+      272,
+      285
+    ]
+  },
+  "vscode": {
+    "codeigniter-spark": 35222,
+    "laravel-smart-command": 10652,
+    "lumen-smart-command": 7440,
+    "laravel-full-extension-pack": 6619,
+    "focusora-code": 12
+  },
+  "hf": {
+    "models": 3,
+    "datasets": 3,
+    "spaces": 3
+  }
+}
